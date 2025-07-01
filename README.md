@@ -1,4 +1,4 @@
-#  Lab 2: Custom Hooks Implementation (React + Vite + Tailwind)
+#  Lab 2: Custom Hooks Implementation 
 
 This project implements two custom React Hooks: `usePagination` and `useDebounce`. Each hook is built to encapsulate reusable logic for managing pagination and debounced input handling. Demo components are provided to showcase how each hook works in a real application.
 
@@ -48,12 +48,13 @@ npm install tailwindcss @tailwindcss/vite
 
 ## Screenshot
 
+![image](https://github.com/user-attachments/assets/46c74931-0bd2-4328-97d7-6e6ca266f39d)
 
 
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/your-username/lab2-custom-hooks.git
+git clone  https://github.com/HaidaMarese/lab2-custom-hooks.git
 cd lab2-custom-hooks
 ```
 
