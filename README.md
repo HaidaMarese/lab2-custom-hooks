@@ -46,6 +46,11 @@ npm install
 npm install tailwindcss @tailwindcss/vite
 ```
 
+## Run
+``` bash
+npm run dev
+```
+
 ## Screenshot
 
 ![image](https://github.com/user-attachments/assets/46c74931-0bd2-4328-97d7-6e6ca266f39d)
@@ -58,8 +63,5 @@ git clone  https://github.com/HaidaMarese/lab2-custom-hooks.git
 cd lab2-custom-hooks
 ```
 
-## Run
-``` bash
-npm run dev
-```
+
 
